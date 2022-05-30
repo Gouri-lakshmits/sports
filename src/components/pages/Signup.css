@@ -1,0 +1,12 @@
+.headings{
+    align-items: center;
+    color: white;
+}
+.formlabel{
+    color: white;
+    font-size: 20px;
+}
+.form{
+    margin-bottom: 90px;
+    width:300px;
+}
